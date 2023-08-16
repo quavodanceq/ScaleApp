@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     }
 
     private func setup() {
-        view.backgroundColor = .magenta
+        view.backgroundColor = .systemMint
         setupMainLabel()
         setupCircleView()
         setupWeightLabel()
